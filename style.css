@@ -1,0 +1,39 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: blue;
+  color: white;
+  padding: 20px;
+}
+
+main {
+  margin: 0 auto;
+  width: 400px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+h1, h2 {
+  font-size: 18px;
+}
+
+p {
+  font-size: 16px;
+}
+
+footer {
+  background-color: gray;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.scrolled {
+  opacity: 0.5;
+}
